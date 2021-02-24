@@ -1,2 +1,2 @@
-# assets
-Angry Birds style game - 
+# Assets 
+Just a bunch of assets to be used in other repos
